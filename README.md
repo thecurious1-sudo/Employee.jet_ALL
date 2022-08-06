@@ -1,4 +1,4 @@
-*This project is still in development phase. Kindly open any issues you face in the repo's `Issue` tab
+*This project is still in development phase. Kindly open any issues you face in the repo's `Issue` tab                                                       
 **This project was developed by Vaibhav Jaiswal and Samarth Dengre for the event 'Code with Globalshala 3.0'
 
 # Empolyee.Jet
